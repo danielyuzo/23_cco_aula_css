@@ -1,0 +1,25 @@
+.pai {
+    background-color: silver;
+    width: 450px;
+    height: 220px;
+    border: solid 2px #000;
+    margin: 10px;
+    padding: 5px;
+}
+
+.caixa {
+    background-color: navy;
+    width: 100px;
+    height: 100px;
+    border-radius:70px;
+}
+
+.titulo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:navy;
+}
+
+.cor-padrao {
+    color:rgb(77, 77, 77); 
+    font-size: 24px;
+}
